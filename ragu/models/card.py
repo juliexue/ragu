@@ -6,7 +6,7 @@ class Suit(Enum):
     CLUB = 'C'
     HEART = 'H'
     SPADE = 'S'
-    NONE = 'N'
+    JOKER = 'J'
 
 
 class Card(object):
